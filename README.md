@@ -20,7 +20,7 @@
 ## 🥕 去哪找我?
 1. Line搜尋官方帳號 `@914vrrfp` 加為好友
 2. 掃描 QR Code 立即加入 
-![](https://i.imgur.com/uZQD5sq.png =180x180)
+![](https://github.com/wan1996tina/firstlinebot/blob/master/914vrrfp.png =180x180)
 
 ## 🥕 使用說明
 
